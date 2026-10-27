@@ -1,2 +1,2 @@
 # Aprendendo-a-usar-o-Recharts
-Recharts, gráficos em React 
+aprendendo usar essa tecnologia em React, gostei muito, mas ainda tem muita coisa pra aprender. Ainda sou muito novo na programação 
